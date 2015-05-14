@@ -1,14 +1,12 @@
 #RWD Email Template API for Oracle
 Here is an API for building Responsive Web Design Email Templates. Written in PL/SQL for Oracle development.
 
-The API is available in this repo.
-
 ##Changelog
 ####0.1.0
 - Initial Release
 
 ##Install
-- Run script `rwd_email` in your schema
+- Run script `rwd_email.sql` in your schema
 
 ##Run
 - Execute any of the following procedures
