@@ -10,10 +10,10 @@ Here is an API for building Responsive Web Design Email Templates. Written in PL
 
 ##Run
 - Execute any of the following procedures
-    + `rwd_email.basic('your_email@email.com');`
-    + `rwd_email.hero('your_email@email.com');`
-    + `rwd_email.sidebar('your_email@email.com');`
-    + `rwd_email.sidebar_hero('your_email@email.com');`
+    + `rwd_email.basic('to@email.com', 'from@email.com');`
+    + `rwd_email.hero('to@email.com', 'from@email.com');`
+    + `rwd_email.sidebar('to@email.com', 'from@email.com');`
+    + `rwd_email.sidebar_hero('to@email.com', 'from@email.com');`
 
 ---
 
