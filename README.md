@@ -1,4 +1,4 @@
-#RWD Email Template API for Oracle
+#Oracle Responsive Email Templates
 Here is an API for building Responsive Web Design Email Templates. Written in PL/SQL for Oracle development.
 
 ##Changelog
